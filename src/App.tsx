@@ -1,8 +1,10 @@
-import LoginForm from "./features/Login/LoginForm"
+// import LoginForm from "./features/Login/LoginForm"
+import Loops from "./features/Loops/Loops"
 function App() {
 	return (
 		<>
-			<LoginForm />
+			{/* <LoginForm /> */}
+			<Loops />
 		</>
 	)
 }
